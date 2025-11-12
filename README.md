@@ -98,7 +98,7 @@
   <a href="mailto:gouravkashyap2468@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://portfolio-gouravkashyap2468.vercel.app/">
+  <a href="https://gourav-kashyap-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/>
   </a>
 </p>
