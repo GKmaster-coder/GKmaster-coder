@@ -94,38 +94,36 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GKmaster-coder&show_icons=true&theme=dark&hide_border=true&rank_icon=github" alt="Gourav's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GKmaster-coder&theme=dark&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GKmaster-coder&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GKmaster-coder&theme=dracula" alt="Activity Graph" width="90%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GKmaster-coder&theme=radical" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GKmaster-coder&theme=radical" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GKmaster-coder&theme=dracula&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</p>
 
 ## 🚀 Recent Activity
-
+![Gourav’s GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=GKmaster-coder&theme=react-dark&hide_border=true)
 ---
 
 ## 📫 Let's Connect!
 
 <p align="center">
   <a href="https://linkedin.com/in/gourav-kashyap-0241722a3" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:gouravkashyap2468@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://gourav-kashyap-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-2ECC71?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-%2300C853.svg?style=flat&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://instagram.com/gouravkashyap2468" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white" />
   </a>
 </p>
+
 
 ---
 
