@@ -1,142 +1,179 @@
-<h1 align="center">Hi there! 👋 I'm Gourav Kashyap</h1>
-<h3 align="center">Full Stack Java Developer | Crafting Scalable Systems | Problem Solver</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=490&lines=Full+Stack+Java+Developer;Spring+Boot+%7C+React+%7C+PostgreSQL;Building+High--Performance+APIs;Open+to+Collaboration+%E2%9C%A8" alt="Typing SVG" />
-  </a>
+```
+ ██████╗  ██████╗ ██╗   ██╗██████╗  █████╗ ██╗   ██╗
+██╔════╝ ██╔═══██╗██║   ██║██╔══██╗██╔══██╗██║   ██║
+██║  ███╗██║   ██║██║   ██║██████╔╝███████║██║   ██║
+██║   ██║██║   ██║██║   ██║██╔══██╗██╔══██║╚██╗ ██╔╝
+╚██████╔╝╚██████╔╝╚██████╔╝██║  ██║██║  ██║ ╚████╔╝
+ ╚═════╝  ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝
+```
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Java+Developer+%F0%9F%9A%80;MERN+Stack+Developer+%F0%9F%8C%BF;MongoDB+%7C+Express+%7C+React+%7C+Node.js;Spring+Boot+%7C+React+%7C+PostgreSQL;Building+High-Performance+APIs+%E2%9A%99%EF%B8%8F;Clean+Code+%7C+Scalable+Systems+%F0%9F%8F%97%EF%B8%8F;Open+to+Collaboration+%E2%9C%A8" alt="Typing SVG" />
+</a>
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gourav-kashyap-0241722a3)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gourav-kashyap-portfolio.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gouravkashyap2468@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gouravkashyap2468)
+
+</div>
+
+---
+
+## `$ whoami`
+
+```java
+public class Gourav extends Developer {
+
+    private final String name        = "Gourav Kashyap";
+    private final String[] roles     = {
+        "Full Stack Java Developer",
+        "MERN Stack Developer"
+    };
+    private final String location    = "India 🇮🇳";
+    private final String focus       = "Scalable backends + Intuitive UIs";
+
+    private final String[] javaStack = { "Spring Boot", "Hibernate", "PostgreSQL", "MySQL" };
+    private final String[] mernStack = { "MongoDB", "Express.js", "React", "Node.js" };
+
+    private final String[] currentlyLearning = {
+        "Microservices Architecture",
+        "Docker & Kubernetes",
+        "System Design Patterns"
+    };
+
+    private final String philosophy =
+        "Write code that your future self will thank you for.";
+
+    @Override
+    public String toString() {
+        return "Java backend precision meets MERN stack agility. ☕⚡";
+    }
+}
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+</p>
+
+### ⚙️ Backend — Java Ecosystem
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+### 🌿 MERN Stack
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+</p>
+
+### 🌐 Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### 🔧 Tools & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 Featured Projects
 
-* **💻 Core Expertise:** A dedicated **Full Stack Developer** with a passion for the robust **Java ecosystem** (Spring Boot, Hibernate).
-* **💡 Goal:** Building high-quality, **efficient**, and **scalable backend systems** using modern architectural patterns.
-* **🌱 Growth:** I thrive on challenges and constantly seek to improve my skills through continuous learning.
-* **☕ Philosophy:** Writing **clean, maintainable code** is paramount to good software engineering.
+| 🗂️ Project | 📝 Description | ⚡ Stack |
+|:---|:---|:---|
+| **[Project Alpha](https://github.com/GKmaster-coder)** | Brief description of what it does and the problem it solves. | `Spring Boot` `React` `PostgreSQL` |
+| **[Project Beta](https://github.com/GKmaster-coder)** | A full-stack MERN app — highlight the main feature here. | `MongoDB` `Express` `React` `Node.js` |
+| **[Project Gamma](https://github.com/GKmaster-coder)** | Your best work — link directly to the repo! | `Java` `Next.js` `Docker` |
 
----
-
-## 🚀 My Development Focus
-
-* **🎯 System Design:** Deep diving into distributed systems and architectural patterns.
-* **☁️ Cloud:** Exploring **Docker** and basic **Cloud/DevOps** principles.
-* **🧱 Architecture:** Mastering **Microservices** and API Gateway design.
+> 💡 **Tip:** Replace the placeholder rows above with your actual projects and link them to their repos!
 
 ---
 
-## 🛠️ Skills & Tech Stack
+## 📊 GitHub Stats
 
-## 💻 Languages
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55" height="55"/>
-</p>
+<div align="center">
 
-## ⚙️ Backend & Frameworks
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="55" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" height="55"/>
-  <img 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" 
-  width="55" 
-  height="55"
-  style="filter: invert;"
-/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain.svg" width="55" height="55"/>
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GKmaster-coder&theme=radical" width="100%"/>
 
-## 🌐 Frontend
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="55" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="55" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="55" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55"/>
-</p>
+<br/>
 
-## 🗄️ Databases
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55" height="55"/>
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GKmaster-coder&theme=radical" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GKmaster-coder&theme=radical" width="48%"/>
 
-## 🔧 Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" style="filter: invert(1);"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="55" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="55" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" height="55">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="55" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="55" height="55"/>
+<br/>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GKmaster-coder&theme=radical&hide_border=true" width="60%"/>
 
-</p>
----
-
-## 📚 Featured Projects (Placeholder)
-
-| Project Name | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **Project Alpha** | A brief, one-sentence summary of the application or service. | `Spring Boot` \| `React` \| `PostgreSQL` |
-| **Project Beta** | Highlight the main functionality and problem it solves. | `Node.js` \| `Express` \| `MongoDB` |
-| **[Your Best Project]** | **Tip:** Link the title directly to the repo! | *Add your best stack here* |
+</div>
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📈 Activity Graph
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GKmaster-coder&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GKmaster-coder&theme=radical" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GKmaster-coder&theme=radical" width="48%" />
-</p>
-
-
-## 🚀 Recent Activity
-![Gourav’s GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=GKmaster-coder&theme=react-dark&hide_border=true)
----
-
-## 📫 Let's Connect!
-
-<p align="center">
-  <a href="https://linkedin.com/in/gourav-kashyap-0241722a3" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:gouravkashyap2468@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://gourav-kashyap-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%2300C853.svg?style=flat&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/gouravkashyap2468" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GKmaster-coder&theme=react-dark&hide_border=true&area=true" width="100%"/>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GKmaster-coder&label=Profile%20Views&color=2E86C1&style=flat" alt="Profile Views" />
-  <a href="https://github.com/GKmaster-coder?tab=followers">
-    <img src="https://img.shields.io/github/followers/GKmaster-coder?label=Followers&style=social" alt="GitHub Followers"/>
-  </a>
-</p>
+## 🏆 Achievements
 
-<p align="center">
-  <br>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Coding Quote" />
-  <br>
-  <i>✨ Continuous learning is the engine of development.</i>
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GKmaster-coder&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="70%"/>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=GKmaster-coder&label=Profile%20Views&color=00BFFF&style=for-the-badge)
+&nbsp;
+[![GitHub Followers](https://img.shields.io/github/followers/GKmaster-coder?label=Followers&style=for-the-badge&color=00BFFF)](https://github.com/GKmaster-coder?tab=followers)
+
+<br/>
+
+**"The best code is no code at all. The second best is clean, readable code."**
+
+*— Thanks for visiting! Let's build something great together. 🚀*
+
+</div>
