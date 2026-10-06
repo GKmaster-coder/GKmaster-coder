@@ -10,7 +10,7 @@
 ```
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Java+Developer+%F0%9F%9A%80;MERN+Stack+Developer+%F0%9F%8C%BF;MongoDB+%7C+Express+%7C+React+%7C+Node.js;Spring+Boot+%7C+React+%7C+PostgreSQL;Building+High-Performance+APIs+%E2%9A%99%EF%B8%8F;Clean+Code+%7C+Scalable+Systems+%F0%9F%8F%97%EF%B8%8F;Open+to+Collaboration+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Java+Developer+%F0%9F%9A%80;MERN+Stack+Developer+%F0%9F%8C%BF;MongoDB+%7C+Express+%7C+React+%7C+Node.js;Spring+Boot+%7C+React+%7C+PostgreSQL;Building+High-Performance+APIs+%E2%9A%99%EF%B8%8F;Clean+Code+%7C+Scalable+Systems+%F0%9F%8F%97%EF%B8%8F;Open+to+Collaboration+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -117,11 +117,9 @@ public class Gourav extends Developer {
 
 | 🗂️ Project | 📝 Description | ⚡ Stack |
 |:---|:---|:---|
-| **[Project Alpha](https://github.com/GKmaster-coder)** | Brief description of what it does and the problem it solves. | `Spring Boot` `React` `PostgreSQL` |
-| **[Project Beta](https://github.com/GKmaster-coder)** | A full-stack MERN app — highlight the main feature here. | `MongoDB` `Express` `React` `Node.js` |
-| **[Project Gamma](https://github.com/GKmaster-coder)** | Your best work — link directly to the repo! | `Java` `Next.js` `Docker` |
-
-> 💡 **Tip:** Replace the placeholder rows above with your actual projects and link them to their repos!
+| **[College ERP System — Naiminath College](https://github.com/GKmaster-coder)** | Full-stack ERP used by **1000+ users** with **5 role-based dashboards** (Super Admin, Admin, Faculty, Student, Accounts). Manages attendance, results, fee management, e-library, payroll/salary and finance & accounting, secured with JWT + RBAC. | `MongoDB` `Express` `React` `Node.js` `Redux` `JWT` `Tailwind CSS` |
+| **[Patient Appointment Booking System](https://appointments.naiminath.org/)** | MERN appointment system handling **100+ daily bookings** with real-time OPD slot availability for online and offline visits, automated email confirmations (Email.js) and an admin dashboard. | `MongoDB` `Express` `React` `Node.js` `Tailwind CSS` `Email.js` |
+| **[E-Commerce Web Application](https://github.com/GKmaster-coder)** | Full-stack eCommerce platform with 5+ core modules: authentication, product catalog, cart, order management and admin dashboard. Secured with JWT and role-based access, with a normalized MySQL schema of 10+ tables managed through Hibernate. | `Java` `Spring Boot` `Hibernate` `MySQL` `React` `JWT` |
 
 ---
 
@@ -129,25 +127,22 @@ public class Gourav extends Developer {
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GKmaster-coder&theme=radical" width="100%"/>
+[![Followers](https://img.shields.io/github/followers/GKmaster-coder?label=Followers&style=for-the-badge&logo=github&color=00BFFF)](https://github.com/GKmaster-coder?tab=followers)
+[![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/GKmaster-coder&query=$.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=00C853)](https://github.com/GKmaster-coder?tab=repositories)
+[![Stars](https://img.shields.io/github/stars/GKmaster-coder?style=for-the-badge&logo=github&label=Stars&color=FFC107)](https://github.com/GKmaster-coder?tab=repositories)
 
-<br/>
+<br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GKmaster-coder&theme=radical" width="48%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GKmaster-coder&theme=radical" width="48%"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GKmaster-coder&theme=radical&hide_border=true" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=GKmaster-coder&theme=radical&hide_border=true" alt="GitHub Streak" width="60%"/>
 
 </div>
 
 ---
 
-## 📈 Activity Graph
+## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GKmaster-coder&theme=react-dark&hide_border=true&area=true" width="100%"/>
+  <img src="https://ghchart.rshah.org/00BFFF/GKmaster-coder" alt="GitHub Contribution Graph" width="100%"/>
 </div>
 
 ---
@@ -155,16 +150,17 @@ public class Gourav extends Developer {
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GKmaster-coder&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
+
+![Java Full Stack](https://img.shields.io/badge/Certified-Java_Full_Stack-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![MERN](https://img.shields.io/badge/Specialist-MERN_Stack-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![ERP](https://img.shields.io/badge/Built-College_ERP_(1000%2B_Users)-00BFFF?style=for-the-badge&logo=react&logoColor=white)
+![Experience](https://img.shields.io/badge/Experience-1.4_Years-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
 </div>
 
 ---
 
 <div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="70%"/>
-
-<br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=GKmaster-coder&label=Profile%20Views&color=00BFFF&style=for-the-badge)
 &nbsp;
